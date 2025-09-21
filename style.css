@@ -1565,7 +1565,7 @@ body {
   justify-content: center;
   z-index: 1000;
   pointer-events: none;
-  padding-bottom: 65vh;
+  padding-bottom: 45vh;
 }
 
 .message {
@@ -1584,7 +1584,7 @@ body {
 
 .main-phrase {
   font-family: 'Arial', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: bold;
   color: #FFD700;
   text-shadow:
@@ -1599,7 +1599,7 @@ body {
 
 .dedication {
   font-family: 'Arial', sans-serif;
-  font-size: 1rem;
+  font-size: 1.3rem;
   color: #FFFFFF;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   margin: 0;
@@ -1607,37 +1607,6 @@ body {
   opacity: 0.9;
 }
 
-/* Responsive design */
-@media (max-width: 300px) {
-  .main-phrase {
-    font-size: 2rem;
-    letter-spacing: 1px;
-  }
-
-  .dedication {
-    font-size: 1rem;
-  }
-
-  .message {
-    padding: 1.5rem 2rem;
-    min-width: 250px;
-  }
-}
-
-@media (max-width: 480px) {
-  .main-phrase {
-    font-size: 1.5rem;
-  }
-
-  .dedication {
-    font-size: 0.9rem;
-  }
-
-  .message {
-    padding: 1rem 1.5rem;
-    min-width: 200px;
-  }
-}
 .bubbles {
   position: absolute;
   top: 0;
