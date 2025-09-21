@@ -1565,7 +1565,7 @@ body {
   justify-content: center;
   z-index: 1000;
   pointer-events: none;
-  padding-bottom: 45vh;
+  padding-bottom: 50vh;
 }
 
 .message {
