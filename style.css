@@ -1584,7 +1584,7 @@ body {
 
 .main-phrase {
   font-family: 'Arial', sans-serif;
-  font-size: 1.5rem;
+  font-size: 28px;
   font-weight: bold;
   color: #FFD700;
   text-shadow:
@@ -1599,7 +1599,7 @@ body {
 
 .dedication {
   font-family: 'Arial', sans-serif;
-  font-size: 1.3rem;
+  font-size: 25px;
   color: #FFFFFF;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
   margin: 0;
